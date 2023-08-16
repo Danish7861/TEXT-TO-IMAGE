@@ -1,6 +1,6 @@
 # Text-to-Image Generation using Diffusers
 
-![Header Image](text_image.jpg)
+![Header Image](text_image.png)
 
 ## Introduction
 
