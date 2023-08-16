@@ -23,7 +23,7 @@ We extend our sincere gratitude to Sir Qasim for his invaluable guidance and ins
 ## Stay Connected
 
 Follow us on social media for more updates and exciting projects:
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/danishshahzad17/])
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/danishshahzad17/)
 
 ---
 © 2023 Danish Shahzad
